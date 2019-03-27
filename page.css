@@ -1,3 +1,17 @@
 .no-link-color {
   color:inherit;
 }
+
+
+.navbar {
+	min-height: 6rem;
+}
+
+.navbar-brand {
+	min-height: 6rem;
+}
+
+.navbar-burger {
+	height: 6rem;
+	weight: 6rem;
+}

@@ -3,14 +3,14 @@
 }
 
 .navbar {
-	min-height: 6rem;
+	min-height: 3rem;
 }
 
 .navbar-brand {
-	min-height: 6rem;
+	min-height: 3rem;
 }
 
 .navbar-burger {
-	height: 6rem;
-	weight: 6rem;
+	height: 3rem;
+	weight: 3rem;
 }

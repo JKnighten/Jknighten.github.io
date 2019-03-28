@@ -1,16 +1,3 @@
 .no-link-color {
   color:inherit;
 }
-
-.navbar {
-	min-height: 3rem;
-}
-
-.navbar-brand {
-	min-height: 3rem;
-}
-
-.navbar-burger {
-	height: 3rem;
-	weight: 3rem;
-}
